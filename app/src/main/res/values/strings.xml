@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuickDeal</string>
+    <integer name="animation_duration">3000</integer>
+    <string name="titlename">Leads</string>
+</resources>
